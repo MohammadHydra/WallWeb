@@ -93,5 +93,3 @@ vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.2.4:443?host=wall.wallweb.w
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.17.46:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E7%2594%25B5%25E4%25BF%25A1-SIN-23
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.17.67:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E7%2594%25B5%25E4%25BF%25A1-SIN-24
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.33.171:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E7%2594%25B5%25E4%25BF%25A1-SIN-25
-vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@108.162.193.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=1&host=wall.wallweb.workers.dev&fp=randomized&type=ws&allowInsecure=1&sni=wall.wallweb.workers.dev#hydratt
-vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@108.162.193.62:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=1&host=wall.wallweb.workers.dev&fp=randomized&type=ws&allowInsecure=1&sni=wall.wallweb.workers.dev#hydratt
