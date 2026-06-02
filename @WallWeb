@@ -3,7 +3,7 @@ vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@8.8.8.8:80?host=wall.wallweb.worker
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@104.17.144.246:80?host=wall.wallweb.workers.dev&path=%2F%3Fed%3D2048&sni=wall.wallweb.workers.dev&encryption=none&type=ws#%25E7%25A7%25BB%25E5%258A%25A8-HKG-04
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.17.67:80?host=wall.wallweb.workers.dev&path=%2F%3Fed%3D2048&sni=wall.wallweb.workers.dev&encryption=none&type=ws#%25E7%2594%25B5%25E4%25BF%25A1-SIN-08
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@cloudflare-ip.mofashi.ltd:80?host=wall.wallweb.workers.dev&path=%2F%3Fed%3D2048&sni=wall.wallweb.workers.dev&encryption=none&type=ws#%25E4%25BC%2598%25E9%2580%2589%25E5%259F%259F%25E5%2590%258D-28
-vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@108.162.193.62:80?host=wall.wallweb.workers.dev&path=%2F%3Fed%3D2048&sni=wall.wallweb.workers.dev&encryption=none&type=ws#%25E7%2594%25B5%25E4%25BF%25A1-SIN-02
+vless://5394a665-cfd1-26bf-9512-1ffb7e08403a@104.16.7.70:443?path=%2F&security=none&encryption=none&host=ferio.farham437.workers.dev&fp=chrome&type=ws&sni=104.18.141.67#farham%E2%9D%A4%EF%B8%8F
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.33.171:80?host=wall.wallweb.workers.dev&path=%2F%3Fed%3D2048&sni=wall.wallweb.workers.dev&encryption=none&type=ws#%25E7%2594%25B5%25E4%25BF%25A1-SIN-10
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.2.4:80?host=wall.wallweb.workers.dev&path=%2F%3Fed%3D2048&sni=wall.wallweb.workers.dev&encryption=none&type=ws#%25E7%2594%25B5%25E4%25BF%25A1-SIN-04
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@104.17.155.67:80?host=wall.wallweb.workers.dev&path=%2F%3Fed%3D2048&sni=wall.wallweb.workers.dev&encryption=none&type=ws#%25E7%25A7%25BB%25E5%258A%25A8-HKG-08
