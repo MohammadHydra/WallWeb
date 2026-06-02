@@ -100,7 +100,7 @@ vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@104.17.133.220:443?host=wall.wallwe
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@104.17.139.17:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E8%2581%2594%25E9%2580%259A-SJC-23
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@104.17.148.32:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E8%2581%2594%25E9%2580%259A-SJC-24
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@104.17.139.16:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E8%2581%2594%25E9%2580%259A-SJC-25
-vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@108.162.193.62:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E7%2594%25B5%25E4%25BF%25A1-SIN-21
+vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@108.162.193.62:443?host=wall.wallweb.workers.dev&sni=wall.wallweb.workers.dev&path=%2F4b79cac7&encryption=none&type=xhttp#Farham
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.2.4:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E7%2594%25B5%25E4%25BF%25A1-SIN-22
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.17.46:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E7%2594%25B5%25E4%25BF%25A1-SIN-23
 vless://4b79cac7-8b6c-415e-bf5c-8d75cb4cb6dd@162.159.17.67:443?host=wall.wallweb.workers.dev&path=%2F4b79cac7&sni=wall.wallweb.workers.dev&encryption=none&type=xhttp#%25E7%2594%25B5%25E4%25BF%25A1-SIN-24
